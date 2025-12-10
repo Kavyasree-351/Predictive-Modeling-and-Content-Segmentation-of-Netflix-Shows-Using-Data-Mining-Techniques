@@ -1,13 +1,4 @@
-# Predictive-Modeling-and-Content-Segmentation-of-Netflix-Shows-Using-Data-Mining-Techniques
-The project aims to analyze the Netflix dataset using classification and clustering to uncover patterns in content types, release years, and viewer behavior. Key features include show type, title, director, cast, country, date added, release year, rating, duration, genre, description, popularity, budget, and revenue.
-
 # Predictive Modeling and Content Segmentation of Netflix Shows Using Data Mining Techniques
-
-**Authors:**  
-- Parth Deshmukh, BITS Pilani Dubai Campus, f20230399@dubai.bitspilani.ac.in  
-- Kavyasree Nunna, BITS Pilani Dubai Campus, f20230072@dubai.bitspilani.ac.in  
-
----
 
 ## **Abstract**
 
