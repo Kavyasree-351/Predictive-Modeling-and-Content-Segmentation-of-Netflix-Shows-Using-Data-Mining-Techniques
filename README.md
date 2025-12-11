@@ -6,7 +6,7 @@ This project explores the Netflix dataset using **classification and clustering*
 
 ---
 # **Authors**
-Kavyasree Nunna - BITS pilani, Dubai Campus
+Kavyasree Nunna - BITS pilani, Dubai Campus <br>
 Parth Deshmukh - BITS pilani, Dubai Campus
 
 ## **Introduction**
