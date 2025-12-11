@@ -5,6 +5,9 @@
 This project explores the Netflix dataset using **classification and clustering** techniques to uncover patterns in content categorization, release years, and viewer behavior. The dataset includes features such as show type, title, director, cast, country, date added, release year, rating, duration, genre, description, popularity, budget, and revenue.  
 
 ---
+# **Authors**
+Kavyasree Nunna - BITS pilani, Dubai Campus
+Parth Deshmukh - BITS pilani, Dubai Campus
 
 ## **Introduction**
 
